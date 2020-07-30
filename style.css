@@ -486,7 +486,7 @@ header {
 }
 
 .hidden-btn {
-  margin: 130% 10px 0px 10px;
+  margin: 50% 10px 0px 10px;
 }
 .hidden-btn button {
   background: #7289da;
@@ -528,7 +528,7 @@ header {
   padding: 50px 0;
 }
 .first-section {
-  height: 80vh;
+  height: 120vh;
   width: 100%;
 }
 .first-section-title {
@@ -669,7 +669,7 @@ header {
 /* *********************************** */
 footer {
   background: #23272a;
-  height: 105vh;
+  height: 160vh;
   font-family: sans-serif;
 }
 .footer-header h2 {
